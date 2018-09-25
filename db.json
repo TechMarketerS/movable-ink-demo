@@ -1,6 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "appointments": [
+    { "id": 1, "storeName": "Guernsey", "startTime": "2018/07/13 13:55:00", "endTime": "2018/07/13 14:55:00", "availability":"No", "type": "Contact Lens" },
+    { "id": 1, "storeName": "Guernsey", "startTime": "2018/09/31 09:10:00", "endTime": "2018/09/31 09:30:00", "availability":"Yes", "type": "Contact Lens" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
