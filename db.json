@@ -1,6 +1,7 @@
 {
   "appointments": [
-    { "id": 1, "EPOSNum": 897, "storeName": "Guernsey", "startTimeDay": 13, "startTimeMonth": 07, "startTimeYear": 2018, "startTime": "2018/07/13 13:55:00", "endTime": "2018/07/13 14:55:00", "availability": "No", "type": "Contact Lens" }],
+    { "id": 1, "EPOSNum": 897, "storeName": "Guernsey", "startTimeDay": 13, "startTimeMonth": 07, "startTimeYear": 2018, "startTime": "2018/07/13 13:55:00", "endTime": "2018/07/13 14:55:00", "availability": "No", "type": "Contact Lens" }
+  ],
   "contactLensDelivery": [
     { "id": 1, "scheme": "xxxxxx", "customerId": 2635, "EPOSNum": 897, "orderId": 45678, "deliveryStatus": "ordered"},
     { "id": 2, "scheme": "xxxxxx", "customerId": 2635, "EPOSNum": 897, "orderId": 453, "deliveryStatus": "dispached"}
