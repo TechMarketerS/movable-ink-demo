@@ -157,42 +157,6 @@
       "type": "Sight Test"
     },
     {
-      "id": 188562,
-      "EPOSNum": 67,
-      "storeName": "Winchester",
-      "startTimeDay": 2,
-      "startTimeMonth": 10,
-      "startTimeYear": 2018,
-      "startTime": "02/10/2018 14:05",
-      "endTime": "02/10/2018 15:05",
-      "availability": "Yes",
-      "type": "Sight Test"
-    },
-    {
-      "id": 188512,
-      "EPOSNum": 67,
-      "storeName": "Winchester",
-      "startTimeDay": 2,
-      "startTimeMonth": 10,
-      "startTimeYear": 2018,
-      "startTime": "02/10/2018 12:40",
-      "endTime": "02/10/2018 13:40",
-      "availability": "Yes",
-      "type": "Sight Test"
-    },
-    {
-      "id": 188532,
-      "EPOSNum": 67,
-      "storeName": "Winchester",
-      "startTimeDay": 2,
-      "startTimeMonth": 10,
-      "startTimeYear": 2018,
-      "startTime": "02/10/2018 12:30",
-      "endTime": "02/10/2018 14:30",
-      "availability": "Yes",
-      "type": "Sight Test"
-    },
-    {
       "id": 189339,
       "EPOSNum": 67,
       "storeName": "Winchester",
@@ -227,6 +191,42 @@
       "endTime": "01/10/2018 13:05",
       "availability": "Yes",
       "type": "Contact Lens"
+    },
+    {
+      "id": 188562,
+      "EPOSNum": 67,
+      "storeName": "Winchester",
+      "startTimeDay": 2,
+      "startTimeMonth": 10,
+      "startTimeYear": 2018,
+      "startTime": "02/10/2018 14:05",
+      "endTime": "02/10/2018 15:05",
+      "availability": "Yes",
+      "type": "Sight Test"
+    },
+    {
+      "id": 188512,
+      "EPOSNum": 67,
+      "storeName": "Winchester",
+      "startTimeDay": 2,
+      "startTimeMonth": 10,
+      "startTimeYear": 2018,
+      "startTime": "02/10/2018 12:40",
+      "endTime": "02/10/2018 13:40",
+      "availability": "Yes",
+      "type": "Sight Test"
+    },
+    {
+      "id": 188532,
+      "EPOSNum": 67,
+      "storeName": "Winchester",
+      "startTimeDay": 2,
+      "startTimeMonth": 10,
+      "startTimeYear": 2018,
+      "startTime": "02/10/2018 12:30",
+      "endTime": "02/10/2018 14:30",
+      "availability": "Yes",
+      "type": "Sight Test"
     }
   ],
   "contactLensDelivery": [
