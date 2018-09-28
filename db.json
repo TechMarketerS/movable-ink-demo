@@ -213,7 +213,7 @@
       "startTimeYear": 2018,
       "startTime": "02/10/2018 12:40",
       "endTime": "02/10/2018 13:40",
-      "availability": "Yes",
+      "availability": "No",
       "type": "Sight Test"
     },
     {
@@ -225,7 +225,7 @@
       "startTimeYear": 2018,
       "startTime": "02/10/2018 12:30",
       "endTime": "02/10/2018 14:30",
-      "availability": "Yes",
+      "availability": "No",
       "type": "Sight Test"
     }
   ],
